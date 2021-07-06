@@ -30,7 +30,7 @@ Note: Before running the project make sure you have created directories namely m
 
 ### Prerequisite ###
 Copy your trained model to the models folder.
-You can download our trained models from the [Google Drive ] (https://drive.google.com/drive/folders/1UX8jXUXyEjhLLZ38tcgOwGsZ6XFSLDJ-?usp=sharing/ "Google Drive")or you can train your models using the steps mentioned in Model Creation directory.
+You can download our trained models from the [Google Drive ](https://drive.google.com/drive/folders/1UX8jXUXyEjhLLZ38tcgOwGsZ6XFSLDJ-?usp=sharing "Google Drive")or you can train your models using the steps mentioned in Model Creation directory.
 
 * Step 1 : Clone the repo and Navigate to Django Application
 git clone https://github.com/Fatema110/DeepFake-Detection-Application.git
