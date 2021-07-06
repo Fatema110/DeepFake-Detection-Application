@@ -10,7 +10,7 @@ In a broader definition, deepfakes are artificial intelligence (AI)-synthesized 
 Lip-sync deepfakes refer to videos that are modified to make the mouth movements consistent with an audio recording. 
 Puppet-master deepfakes include videos of a target person (puppet) who is animated following the facial expressions, eye and head movements of another person (master) sitting in front of a camera
 
-## Requirements:##
+## Requirements:
 
 Note : **Nvidia GPU** is mandatory to run the application.
 
