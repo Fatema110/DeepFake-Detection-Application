@@ -1,5 +1,5 @@
 # DeepFake-Detection-Application Using Django #
-=======================================
+
 
 
 In recent years, deepfake technology has made huge leaps in terms of accuracy, quality, and most of all: believability. At one time or another, we've all been fooled by a computer-generated viral image or even someone's Snapchat filter. The ability to determine whether or not an image is reality is quickly becoming a necessity in a world that's becoming more and more susceptible to "questionable" information. Recently, doctored images have made headlines and divided people in their opinions of whether real-world issues were legitimate. In this project we have built a video classification system that can determine if it is real or deepfake. The propose system detects the DeepFake using **Convolutional Neural Network (CNN)** and **Recurrent Neural Network (RNN).**
